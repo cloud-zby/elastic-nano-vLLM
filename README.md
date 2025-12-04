@@ -52,8 +52,10 @@ See `bench.py` for benchmark.
 
 
 ## Installation
-
+First, install nano-vLLM using pip:
 ```bash
+python3 -m venv venv
+source venv/bin/activate
 pip install git+https://github.com/GeeeekExplorer/nano-vllm.git
 ```
 

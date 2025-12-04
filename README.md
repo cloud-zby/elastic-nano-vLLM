@@ -1,8 +1,6 @@
-<p align="center">
-<img width="500" src="assets/logo.png">
-</p>
 # Elastic Nano-vLLM
 ## Nano-vLLM
+![Nano-vLLM](image.png)
 What is Nano-vLLM?     
 A lightweight vLLM implementation built from scratch.
 

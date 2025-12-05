@@ -1,8 +1,5 @@
 # Elastic Nano-vLLM
 ## Nano-vLLM
-<p align="left">
-<img width="500" src="assets/logo.png">
-</p>
 What is Nano-vLLM?     
 A lightweight vLLM implementation built from scratch.
 
